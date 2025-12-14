@@ -1,0 +1,5 @@
+{
+  "name": "OmniChat AI",
+  "description": "A responsive, animated, and intelligent chatbot powered by Gemini 2.5 Flash. It answers questions with streaming text and maintains conversation context.",
+  "requestFramePermissions": []
+}
